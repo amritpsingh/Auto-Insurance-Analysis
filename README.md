@@ -1,2 +1,2 @@
-# Auto-Insurance-Analysis
-Auto Insurance Analysis dashboard using Power BI
+# Auto Insurance Claims Analysis
+Auto Insurance Claims Analysis dashboard using Power BI
